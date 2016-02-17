@@ -1,0 +1,13 @@
+3440e8f6e16bf0d38ba8278482a4cc0d *DESCRIPTION
+4ad86bba2bf91ca74e11bda8f2450619 *NAMESPACE
+0f653eee9e4b9930c7db7ac7e637796b *R/buildtree.R
+070373544bdea747a60cbb89763ce8c5 *R/checktree.R
+fa6b135d60ae8dcb212d024900b4fed6 *R/scenario.R
+7c73ed3d6f07678113cedc3e0f0d8f18 *build/vignette.rds
+e84a05277dc0073e2bce6c9d84c02ace *inst/doc/buildtree.R
+c5cb53016a5e2aef4db9e7ef7652bc94 *inst/doc/buildtree.Rmd
+330a321b67211093f152cb8950b2ddb8 *inst/doc/buildtree.html
+f404d09f29216de8ac596cfaa54c347e *man/buildtree.Rd
+1dcd1a78c958ccee90996cff571393ba *man/checktree.Rd
+328a71598d78b7b8325fb5ba19ac1efd *man/scenario.Rd
+c5cb53016a5e2aef4db9e7ef7652bc94 *vignettes/buildtree.Rmd
